@@ -1,0 +1,5 @@
+/vendor/*
+/.env
+/public/images/tour-operator/logo/*
+/public/images/tour-operator/package/*
+/node_modules/
